@@ -1,1 +1,1 @@
-# EDA
+# Exploratory Data Analysis
